@@ -18,7 +18,7 @@ node.js
 -------
 Install node.js using brew:
 ```
-brew install node.js
+brew install node
 ```
 
 postgresql
